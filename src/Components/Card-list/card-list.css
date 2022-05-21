@@ -1,0 +1,21 @@
+.card-list {
+  margin-top: 2rem;
+  background-color: #111111;
+  /* background: rgb(0, 0, 0);
+  background: linear-gradient(
+    170deg,
+    rgba(0, 0, 0, 1) 1%,
+    rgba(105, 105, 105, 1) 59%,
+    rgba(105, 105, 105, 1) 100%
+  ); */
+
+  width: 90vw;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-flow: column nowrap;
+  box-shadow: 2px 4px 21px 5px rgba(255, 255, 255, 1);
+  -webkit-box-shadow: 2px 4px 21px 5px rgba(255, 255, 255, 1);
+  -moz-box-shadow: 2px 4px 21px 5px rgba(255, 255, 255, 1);
+}

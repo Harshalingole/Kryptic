@@ -1,0 +1,24 @@
+nav {
+  /* background-color: lightgray; */
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row nowrap;
+  margin-top: 1rem;
+  border-bottom: 5px solid yellow;
+}
+.cmn {
+  margin-right: 0.3rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-flow: row nowrap;
+  flex-basis: 15%;
+  font-size: 1.6rem;
+}
+.sr-num {
+  flex-basis: 5%;
+  margin-right: 0.3rem;
+}

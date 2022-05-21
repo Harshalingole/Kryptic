@@ -1,0 +1,47 @@
+.card {
+  /* background-color: lightgray; */
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row nowrap;
+  margin-top: 1rem;
+  border-bottom: 1px solid lightgrey;
+}
+.cmn-div-ft {
+  margin-right: 0.3rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-flow: row nowrap;
+  flex-basis: 15%;
+  font-size: 1.6rem;
+}
+.coin-logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.logo-img {
+  margin-right: 0.5rem;
+  width: 2.5rem;
+}
+.coin-name,
+.h1tag {
+  font-size: 1.6rem;
+}
+.h3tag {
+  font-size: 1.5rem;
+  color: white;
+}
+h1 {
+  color: white;
+}
+
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}

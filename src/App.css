@@ -1,0 +1,23 @@
+/* .App { */
+/* text-align: center; */
+/* } */
+
+* {
+  box-sizing: border-box;
+}
+body {
+  /* background: rgb(22, 21, 43);
+  background: linear-gradient(
+    176deg,
+    rgba(22, 21, 43, 1) 40%,
+    rgba(105, 105, 105, 1) 100%,
+    rgba(105, 105, 105, 1) 100%
+  ); */
+  background-color: #16152b;
+}
+.heading {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  font-style: italic;
+}
