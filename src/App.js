@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="App container">
-      <h1 className="heading">Welcome To Crypto Mart</h1>
+      <h1 className="heading">Welcome To Kryptic</h1>
       <h3 className="h3tag heading">Made by 'Harshal Ingole'</h3>
       <SearchBar
         type="search"
